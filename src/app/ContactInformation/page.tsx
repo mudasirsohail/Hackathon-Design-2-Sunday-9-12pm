@@ -19,7 +19,6 @@ export default function Information(){
         <br /><br />
         sampleemail@gmail.com
         <Link href={"/ContactUs"}><button className="contact-button"> Contact Us </button></Link>
-        <button className="contact-button"> Contact Us </button>
         </div>
             <div className="MapPicture" >
                 <img src="googleMaps.png" alt="map"  className="contact-picture"/>
