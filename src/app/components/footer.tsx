@@ -36,7 +36,7 @@ export default function Footer(){
                 <h3>Social Media</h3>
                 <div className="footer-icons">
                     <img src="facebook.png" alt="" className="social-icon"/>
-                    <img src="twitter.PNG" alt="" className="social-icon"/>
+                    <img src="twitter.png" alt="" className="social-icon"/>
                     <img src="LinkedIn.png" alt="" className="social-icon"/>
                     <img src="pininterest.png" alt="" className="social-icon"/>
 
