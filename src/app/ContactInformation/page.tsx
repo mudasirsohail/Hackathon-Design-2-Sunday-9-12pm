@@ -1,5 +1,7 @@
+import Link from "next/link";
 import Footer from "../components/footer";
 import Header from "../components/header";
+
 
 export default function Information(){
     return(
@@ -16,6 +18,7 @@ export default function Information(){
         <h5> 512.333.2222 </h5>
         <br /><br />
         sampleemail@gmail.com
+        <Link href={"/ContactUs"}><button className="contact-button"> Contact Us </button></Link>
         <button className="contact-button"> Contact Us </button>
         </div>
             <div className="MapPicture" >
